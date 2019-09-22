@@ -18,7 +18,6 @@ cc_library_shared {
         "libutils",
     ],
     header_libs: [
-        "generated_kernel_headers",
     ],
 }
 
